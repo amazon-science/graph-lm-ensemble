@@ -140,7 +140,7 @@ traitlets==5.5.0
 transformer-utils==0.1.1
 transformers==4.36.0
 typing-extensions==4.4.0
-urllib3==1.26.17
+urllib3==1.26.18
 wandb==0.13.4
 wcwidth==0.2.5
 webencodings==0.5.1
