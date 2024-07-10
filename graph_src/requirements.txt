@@ -12,7 +12,7 @@ backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==5.0.1
 cachetools==5.2.0
-certifi==2023.7.22
+certifi==2024.7.4
 cffi==1.15.1
 charset-normalizer==2.1.1
 click==8.1.3
@@ -47,7 +47,7 @@ ipykernel==6.16.1
 ipython-genutils==0.2.0
 ipython==8.10.0
 jedi==0.18.1
-jinja2==3.1.3
+jinja2==3.1.4
 joblib==1.2.0
 jsonschema==4.16.0
 jupyter-client==7.4.3
@@ -138,9 +138,9 @@ tornado==6.4.1
 tqdm==4.64.1
 traitlets==5.5.0
 transformer-utils==0.1.1
-transformers==4.36.0
+transformers==4.38.0
 typing-extensions==4.4.0
-urllib3==1.26.18
+urllib3==1.26.19
 wandb==0.13.4
 wcwidth==0.2.5
 webencodings==0.5.1
@@ -149,4 +149,4 @@ werkzeug==3.0.1
 wheel==0.38.0
 xxhash==3.1.0
 yarl==1.8.1
-zipp==3.9.0
+zipp==3.19.1
